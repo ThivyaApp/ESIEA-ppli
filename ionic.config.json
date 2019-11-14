@@ -1,0 +1,8 @@
+{
+  "name": "ESIEA'ppli",
+  "app_id": "6155bce7",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}

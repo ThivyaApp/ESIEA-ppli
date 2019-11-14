@@ -1,0 +1,25 @@
+page-home {
+	.bg {
+		background-image: url('../assets/imgs/campus11.png');
+		background-repeat: no-repeat;
+		background-position: center;
+		background-size: contain;
+		opacity: 0.95;
+	}
+
+	ion-content{
+
+		//background : rgb(150,216,233) !important;
+	}
+
+	h1{
+		color: white;
+		font-weight: bold; 
+	}
+
+	p{
+		color: white;
+		font-size: large;
+		font-weight: bold; 
+	}
+}

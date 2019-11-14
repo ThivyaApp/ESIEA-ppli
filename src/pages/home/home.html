@@ -1,0 +1,31 @@
+<ion-header>
+  <ion-navbar>
+    <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title>HOME</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding class ="bg">
+	<ion-img src="/assets/imgs/esiealogo.png"></ion-img>
+    <h1>Bienvenue sur ESIEA'ppli ! </h1>
+    <p>Le but de notre application est de rassembler toutes les informations de l'école (soirées, concerts, évènements...) et de tenir au courant les étudiants et les parents de l'actualité au coeur de l'école. L'application aura pour but de donner des détails sur les différents évènements. </p>
+
+  <ng-container *ngFor="let post of posts | async">
+    <ion-card *ngIf="post.photos.length > 0">
+      <ion-item>
+        <ion-avatar item-left>
+          <img src="http://graph.facebook.com/{{post.from.id}}/picture" />
+        </ion-avatar>
+        <h2>{{ post.from.name }}</h2>
+        <p>{{ post.time | date:'medium' }}</p>
+      </ion-item>
+      <img [src]="post.photos[0].src" />
+      <ion-card-content>
+        <p>{{ post.message }}</p>
+      </ion-card-content>
+    </ion-card>
+  </ng-container>
+
+</ion-content>
