@@ -7,7 +7,7 @@ import 'rxjs/add/operator/map';
 @Injectable()
 export class FacebookService {
 
-  private accessToken = 'EAACEdEose0cBAAvJjpJGA0YvvZAoQmYbZCNMT5EvEqVDCEO19eucP63Aw2pMzHqf8wIt7VF7tZCZCtKApIGSxsXQqWE5gE81fBweYSS50U3peSZBriC0GCdkjlADehrca8Iydtp9YrZAcQHJ9pemZCbjZADMbacFfBYgQ7oB8yyd1UyFvHJmi8Mk6h87Fhd52WZCWHcbZANvqbwwZDZD';
+  private accessToken = '#YOUR_ACCESS_TOKEN';
 
   private graphUrl = 'https://graph.facebook.com/';
   private graphQuery = `?access_token=${this.accessToken}&date_format=U&fields=posts{from,created_time,message,attachments}`;
