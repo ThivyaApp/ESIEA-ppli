@@ -10,11 +10,23 @@ Les utilisateurs auront également la possibilité d’accéder aux différentes
 
 ## Demo
 ### Home Page
+<p align="center"> <img id="screenshot" src="/img/home.png" height="25%" width="25%"> </p>
 
 ### Menu
+<p align="center"> <img id="screenshot" src="/img/menu.png" height="25%" width="25%"> </p>
 
 ### Associations 
 
 Slider with a description of each association of our school
 
+<img id="screenshot" src="/img/bda_descr.png" height="25%" width="25%" align="left">
+<img id="screenshot" src="/img/bde_descr.png" height="25%" width="25%" align="left">
+<img id="screenshot" src="/img/bds_descr.png" height="25%" width="25%">
+
+<br><br> 
+
 ### News 
+
+<img id="screenshot" src="/img/bde_actu.png" height="25%" width="25%" align="left">
+<img id="screenshot" src="/img/bds_actu.png" height="25%" width="25%">
+
