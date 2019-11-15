@@ -2,11 +2,12 @@
 >IONIC mobile application
 
 ## Introduction 
-ESIEA’ppli est une application mobile hybride, ayant pour but de regrouper toutes les informations concernant la vie associative de notre école.
+ESIEA'ppli is a hybrid mobile application that helps students to have all the information about the different associations of my shool (ESIEA).
 
-L'application est directement connectée aux réseaux sociaux des différentes associations de l’école afin de permettre aux utilisateurs d’être informé en temps réel des activités et évènements de l’école. 
+The application is directly connected to the social network pages of each association as it is the only way to get access of these data. 
 
-Les utilisateurs auront également la possibilité d’accéder aux différentes plateformes de l'école comme les emplois du temps et le suivi de l'élève au cours de l'année.
+Moreover, students will have access to all the different plateformes of the school in one place. 
+For example, we have a website for the timetable and another one to see our results during the year. But thanks to ESIEA'ppli, we have all the links in one page.
 
 ## Demo
 ### Home Page
@@ -27,6 +28,12 @@ Slider with a description of each association of our school
 
 ### News 
 <p flex-direction="row" align="center">
-<img id="screenshot" src="/img/bde_actu.png" height="25%" width="25%" align="left">
+<img id="screenshot" src="/img/bde_actu.png" height="25%" width="25%">
 <img id="screenshot" src="/img/bds_actu.png" height="25%" width="25%">
 </p>
+
+
+### Other plateformes 
+<p align="center"> <img id="screenshot" src="/img/plateforme_access.png" height="25%" width="25%"> </p>
+
+
