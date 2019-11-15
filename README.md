@@ -10,8 +10,11 @@ Moreover, students will have access to all the different plateforms of the schoo
 For example, we have a website for the timetable and another one to see our results during the year. But thanks to ESIEA'ppli, we have all the links in one page.
 
 ## Used technologies 
+
 Application Development and Structure (Framework) : [IONIC](https://ionicframework.com/)
+
 Interface Designs: HTML5, CSS3
+
 Backend : Javascript, Node.js
 
 The data of each association is from the facebook [Graph](https://developers.facebook.com/docs/graph-api?locale=fr_FR) API.
