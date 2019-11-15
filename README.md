@@ -18,15 +18,15 @@ Les utilisateurs auront également la possibilité d’accéder aux différentes
 ### Associations 
 
 Slider with a description of each association of our school
-
-<img id="screenshot" src="/img/bda_descr.png" height="25%" width="25%" align="left">
-<img id="screenshot" src="/img/bde_descr.png" height="25%" width="25%" align="left">
+<p flex-direction="row" align="center">
+<img id="screenshot" src="/img/bda_descr.png" height="25%" width="25%" >
+<img id="screenshot" src="/img/bde_descr.png" height="25%" width="25%" >
 <img id="screenshot" src="/img/bds_descr.png" height="25%" width="25%">
-
+</p>
 <br><br> 
 
 ### News 
-
+<p flex-direction="row" align="center">
 <img id="screenshot" src="/img/bde_actu.png" height="25%" width="25%" align="left">
 <img id="screenshot" src="/img/bds_actu.png" height="25%" width="25%">
-
+</p>
