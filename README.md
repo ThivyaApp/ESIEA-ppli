@@ -11,11 +11,11 @@ For example, we have a website for the timetable and another one to see our resu
 
 ## Used technologies 
 
-Application Development and Structure (Framework) : [IONIC](https://ionicframework.com/)
+<b> Application Development and Structure (Framework) : </b>[IONIC](https://ionicframework.com/)
 
-Interface Designs: HTML5, CSS3
+<b>Interface Designs: </b> HTML5, CSS3
 
-Backend : Javascript, Node.js
+<b>Backend : </b> Javascript, Node.js
 
 The data of each association is from the facebook [Graph](https://developers.facebook.com/docs/graph-api?locale=fr_FR) API.
 
